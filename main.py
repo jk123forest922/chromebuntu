@@ -1,6 +1,7 @@
 import pygame
 import win32api
 from win32api import GetSystemMetrics
+from sound import *
 import win32con
 import win32gui
 import time
